@@ -11,7 +11,7 @@ This Python Calculator Program is a simple command-line utility that allows user
 
 # How It Works:
 
-## 1.Function Definitions:
+**Function Definitions:**
 
    - **add(a, b)**: Returns the sum of a and b.
    - **sub(a, b)**: Returns the difference between a and b.
