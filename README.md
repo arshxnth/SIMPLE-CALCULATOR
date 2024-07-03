@@ -20,7 +20,7 @@ This Python Calculator Program is a simple command-line utility that allows user
 
 **2. Main Function:**
 
-## **calc()**:
+**calc()**:
 - Runs an infinite loop to continually prompt the user for input.
 - Asks the user to input two numbers (num1 and num2).
 - Prompts the user to select an operation (+, -, *, /).
