@@ -11,14 +11,14 @@ This Python Calculator Program is a simple command-line utility that allows user
 
 # How It Works:
 
-**Function Definitions:**
+**1. Function Definitions:**
 
    - **add(a, b)**: Returns the sum of a and b.
    - **sub(a, b)**: Returns the difference between a and b.
    - **multi(a, b)**: Returns the product of a and b.
    - **div(a, b)**: Returns the division of a by b.
 
-## 2.Main Function:
+**2. Main Function:**
 
 ## **calc()**:
 - Runs an infinite loop to continually prompt the user for input.
@@ -27,7 +27,7 @@ This Python Calculator Program is a simple command-line utility that allows user
 - Depending on the selected operation, it calls the corresponding function (add, sub, multi, div) and prints the result.
 - If an invalid operation is selected, it prints an error message.
 
-## 3.User Interaction:
+**3. User Interaction:**
 
 - The program uses a while loop to keep running until manually stopped by the user.
 - Each iteration prompts the user for the first number, the second number, and the desired operation.
